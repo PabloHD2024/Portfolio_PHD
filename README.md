@@ -10,7 +10,6 @@ Este portfolio está desarrollado con tecnologías web estándar, enfocándose e
 
 *   **HTML5** (Estructura semántica)
 *   **CSS3** (Estilos avanzados, Flexbox, Grid y diseño responsivo)
-*   **JavaScript** (Interactividad y control de interfaz)
 
 ---
 
