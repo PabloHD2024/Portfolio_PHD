@@ -1,4 +1,4 @@
-# 🚀 Portfolio Personal — Pablo Hernán Demartini
+# Portfolio Personal — Pablo Hernán Demartini
 
 ¡Bienvenido a mi repositorio de portfolio! Este proyecto está diseñado para presentar mi perfil profesional, experiencia laboral, habilidades técnicas y proyectos en desarrollo como **Desarrollador Full Stack Jr.**
 
