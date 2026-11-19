@@ -315,6 +315,28 @@ strong {
 }
 
 /* Contacto */
+
+#contacto {
+  display: flex;
+  flex-direction: column;
+}
+
+#contacto form {
+  width: 600px;
+  margin-right: 30px;
+}
+
+.social-icons a {
+  font-size: 25px;
+  padding-right: 15px;
+  justify-content: center;
+}
+
+.contact-section {
+  display: flex;
+  flex-direction: row;
+}
+
 .form-group {
   margin-bottom: 17px;
 }
