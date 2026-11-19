@@ -9,7 +9,7 @@ body {
   font-family: "Montserrat", sans-serif;
   line-height: 1.6;
   color: #333;
-  background: #f0f2f5;
+  background: #cccccc;
 }
 
 /* CONTENEDOR GENERAL */
@@ -21,7 +21,7 @@ body {
 
 /* HEADER */
 header {
-  background: linear-gradient(135deg, #2c3e50, #1a252f);
+  background: linear-gradient(135deg, #2c3e50, #05090c);
   color: #fff;
   padding: 40px 20px;
   text-align: center;
@@ -172,6 +172,15 @@ p {
   font-style: normal;
   font-weight: 600;
   text-transform: uppercase;
+}
+
+.proyectos a {
+  font-size: 40px;;
+  color: grey; 
+}
+
+.proyecto a:hover {
+  color: #1a2b38;
 }
 
 .tags {
